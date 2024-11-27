@@ -1,7 +1,7 @@
 # PDF Splittor
 
 ## Function
-- Splitting long pages in a PDF file into smaller pages in another file.
+- Splitting long pages in a PDF file into smaller pages in another file with A4 aspect ratio.
 - Do not split across texts
 
 ## How to use
